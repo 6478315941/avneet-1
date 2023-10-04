@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+    <h1>list of tags we have learned</h1>
+    <p1>
+  <ul>
+<li> tag h1:This is heading 1</li>
+<li>tag img :this is for image</li>
+<li> tag title: it defines the title of document</li>
+<li>tag table: this tag for defining the table</li>
+<li>Tag ol:this tag is for order list</li>
+  </ul>
+  </p1>
+  <p2><a href="index1.html"> link for index.html page</a></p2>
+</body>
+</html
